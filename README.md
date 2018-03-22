@@ -2,9 +2,9 @@
 fadeIn() and fadeOut() without jQuery, in pure JavaScript
 
 # Installation
-## Regular
-    Clone this repository or download it
-## NPM
+### Regular
+Clone this repository or download it
+### NPM
 `npm install git+https://github.com/turkelton31/vanilla-fade-io.git --save`
 
 # Usage
