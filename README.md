@@ -5,7 +5,7 @@ fadeIn() and fadeOut() without jQuery, in pure JavaScript
 Clone this repository or download it
 
 # Usage
-`
+```javascript
 document.getElementById('in').addEventListener('click', function() {
     FX.fadeIn(document.getElementById('test'), {
         duration: 2000,
@@ -23,4 +23,7 @@ document.getElementById('out').addEventListener('click', function() {
         }
     });
 }, false);
-`
+```
+
+# Exemple
+[CodePen](https://codepen.io/gabrieleromanato/pen/frIwl?editors=0010)
