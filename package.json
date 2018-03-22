@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-fade-io",
+  "version": "1.0.0",
+  "description": "fadeIn() and fadeOut() without jQuery, in pure JavaScript",
+  "main": "src/fade-io.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turkelton31/vanilla-fade-io.git"
+  },
+  "author": "turkelton31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turkelton31/vanilla-fade-io/issues"
+  },
+  "homepage": "https://github.com/turkelton31/vanilla-fade-io#readme"
+}
